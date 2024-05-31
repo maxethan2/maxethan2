@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello my name is Max Haviv! 😁
+I am a Senior currently attending Kennesaw State University majoring in Computer Science and minoring in Mathematics!
+
 
 <!--
 **maxethan2/maxethan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
